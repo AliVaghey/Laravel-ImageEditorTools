@@ -15,7 +15,7 @@ I'm building on top of it over time — no fixed roadmap, just creative evolutio
 Install via Composer:
 
 ```bash
-composer require vaghey/image-editor-tools
+composer require vaghey/image-editor
 ```
 
 ## ⚙️ Configuration
