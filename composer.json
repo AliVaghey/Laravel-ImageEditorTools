@@ -19,7 +19,8 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "illuminate/support": "^12.31"
+        "illuminate/support": "^12.31",
+        "ext-gd": "*"
     },
     "extra": {
         "laravel": {
